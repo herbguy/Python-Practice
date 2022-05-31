@@ -16,6 +16,7 @@
 - [와인품질 예측](https://github.com/hongwon2/Python-Practice/blob/main/%EC%99%80%EC%9D%B8%ED%92%88%EC%A7%88%EC%98%88%EC%B8%A1.ipynb)
 - [심부전증 예측](https://github.com/hongwon2/Python-Practice/blob/main/ML/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%B6%84%EC%84%9D%EC%9C%BC%EB%A1%9C_%EC%8B%AC%EB%B6%80%EC%A0%84%EC%A6%9D%EC%9D%84_%EC%98%88%EB%B0%A9%ED%95%98%EA%B8%B0.ipynb)
 - [주택가격 예측](https://github.com/hongwon2/Python-Practice/blob/main/%EC%A3%BC%ED%83%9D%EA%B0%80%EA%B2%A9_%EC%98%88%EC%B8%A1.ipynb)
+- [유방암 예측](https://github.com/hongwon2/Python-Practice/blob/main/%EC%9C%A0%EB%B0%A9%EC%95%94_%EC%A7%84%EB%8B%A8_%EC%9C%A0%ED%8C%90.ipynb)
 ## ETC
 - [빅쿼리_판다스_연동](https://github.com/hongwon2/Python-Practice/blob/main/bigquery_colab.ipynb)
 
